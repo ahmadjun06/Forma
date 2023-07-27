@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+body {
+    padding: 50px;
+    background-color: gold;
+    color: white;
+}
+
+.inputi {
+    margin: 30px;
+    margin-left: 0;
+    display: flex;
+    gap: 40px;
+}
+
+.box {
+    font-size: 20px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.btn {
+    font-size: 16px;
+    color: white;
+    padding: 10px 40px;
+    border: 0;
+    border-radius: 12px;
+    background-color: chartreuse;
+}
+
+p {
+    margin: 0;
+}
+
+.studentsBox {
+    font-size: 20px;
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
